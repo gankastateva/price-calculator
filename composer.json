@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": { "SimpleCalculations\\": "SimpleCalculations/" }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  }
+}

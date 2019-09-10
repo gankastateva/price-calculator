@@ -1,5 +1,5 @@
 <?php
-
+namespace SimpleCalculations;
 
 class ProductsBundle
 {
